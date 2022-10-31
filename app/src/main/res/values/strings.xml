@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="settings">settings</string>
+    <string name="about">about</string>
+    <string name="home">home</string>
+    <string name="logout">logout</string>
+</resources>
